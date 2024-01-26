@@ -9,4 +9,4 @@ cd HACKGG
 
 bash gas.sh
 
-# note : saya tidak bertanggung jawab atas segala sesuatu yang terhadap anda, saya menyediakan ini hanya untuk pembelajaran saya saja !
+# note : saya tidak bertanggung jawab atas segala sesuatu yang terjadi terhadap anda, saya menyediakan ini hanya untuk pembelajaran saya saja !
